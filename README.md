@@ -11,12 +11,12 @@ Sebelum mempraktekkan kode, silakan atur dalam Pengaturan akun di Google.
 - Klik **Apps with account access**
 - Aktifkan ke mode **ON** pada **Allow less secure apps**
 
-![Setting Akun Google](google account.png)
+![Setting Akun Google](google_account.png)
 
 
 Dan ini contoh hasil pengiriman ke email temporer.
 
-![Kirim email berhasil](kirim email berhasil (edit).png)
+![Kirim email berhasil](kirim.png)
 
 ---
 
